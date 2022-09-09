@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc2e5884-4f4a-4274-ba44-40c34d43f5d7" name="Changes" comment="">
+    <list default="true" id="bc2e5884-4f4a-4274-ba44-40c34d43f5d7" name="Changes" comment="add comment">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +91,16 @@
       <workItem from="1662352388923" duration="40000" />
       <workItem from="1662605958820" duration="8021000" />
       <workItem from="1662654623686" duration="1200000" />
-      <workItem from="1662722067786" duration="53000" />
+      <workItem from="1662722067786" duration="215000" />
     </task>
+    <task id="LOCAL-00001" summary="add comment">
+      <created>1662722214101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662722214101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,5 +133,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
   </component>
 </project>
