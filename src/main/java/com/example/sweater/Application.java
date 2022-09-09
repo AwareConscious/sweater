@@ -4,6 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+    // I'm trying to understand what's happening here
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
     }
